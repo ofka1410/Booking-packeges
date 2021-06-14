@@ -1,0 +1,59 @@
+.card-warper{
+margin-top:80px;
+margin-bottom:50px;
+
+margin-left: auto;
+margin-right: auto;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, 
+rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+ rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+
+.unfollow-bt{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.follow-bt{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.date{
+  font-weight: bold;
+  font-size: medium;
+}
+
+.dates{
+  margin-left: 20% !important;
+}
+
+.homePage-warper{
+  margin-top: 70px;
+  background-image:
+  url("https://images.pexels.com/photos/1020340/pexels-photo-1020340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size:cover;
+ height: 100%;
+  background-repeat:no-repeat;
+  width: 100%;
+}
+
+.followers-warper{
+background-color: rgb(198, 222, 238);
+}
+
+.price{
+  padding-top: 10px;
+  color: green;
+}
+
+.name-item{
+  color: rgb(81, 81, 148);
+}
+.description{
+  color: rgb(95, 90, 90);
+  font-size: 15px !important;
+}

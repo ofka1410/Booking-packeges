@@ -1,0 +1,43 @@
+.input-search{
+    background-color: white !important;
+    margin:5px;
+}
+.search-bt{
+    
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    background-color: rgb(88, 129, 243) !important;
+    color: #fff !important;
+    background-color: #0071c2 !important;
+    border-radius: 10px !important;
+}
+.search-bt:hover{
+  background-color: rgb(52, 58, 141) !important;
+}
+
+.back-bt{
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    color: rgb(75, 73, 46) !important;
+    background-color: #b7e1e7 !important;
+}
+.search-warper{
+    display: flex;
+    flex-direction: row;
+}
+@media only screen and (max-width: 750px) {
+.search-warper{
+    display: flex;
+    flex-direction: column;
+    
+}
+.inputs-warper{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
+
+#dateSearch{
+   width:200px; 
+}
+}

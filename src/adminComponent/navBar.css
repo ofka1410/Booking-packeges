@@ -1,0 +1,13 @@
+.icons-admin{
+    color: white;
+}
+
+.icons-admin:hover{
+    color:rgb(137, 233, 137);
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.logout-bt:hover{
+    color:rgb(137, 233, 137);
+    transform: scale(1.2);
+}
